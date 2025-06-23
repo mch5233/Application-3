@@ -11,8 +11,8 @@
 I used AI to help me figure out good variable names for my code,
 how to implement the lux equation within my code, what each of my task 
 should do to implement my chosen thematic and to create the comments 
-within this code. Extended for Application 3 with interrupt handling
-and semaphore-based event processing.
+within this code. Debugging my implementation of the button ISR 
+as well as how to incoporate it into my thematic.
 */
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
